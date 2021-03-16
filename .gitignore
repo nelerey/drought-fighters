@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .DS_Store
+
+# the full camels gb dataset is >200mb
+Data/camels-gb/
